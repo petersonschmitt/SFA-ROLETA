@@ -47,15 +47,6 @@
     }
   ],
   "semanaAtual": "2026-W30",
-  "jaSorteados": [
-    "roberson"
-  ],
-  "historico": [
-    {
-      "id": "roberson",
-      "nome": "Roberson",
-      "semana": "2026-W30",
-      "dataHora": "2026-07-24T17:05:46.604Z"
-    }
-  ]
+  "jaSorteados": [],
+  "historico": []
 }
