@@ -51,7 +51,8 @@
     "ph",
     "modesto",
     "dasa",
-    "ewerling"
+    "ewerling",
+    "peterson"
   ],
   "historico": [
     {
@@ -77,6 +78,12 @@
       "nome": "Ewerling",
       "semana": "2026-W30",
       "dataHora": "2026-07-24T16:57:49.421Z"
+    },
+    {
+      "id": "peterson",
+      "nome": "Peterson",
+      "semana": "2026-W30",
+      "dataHora": "2026-07-24T16:59:55.422Z"
     }
   ]
 }
