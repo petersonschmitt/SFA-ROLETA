@@ -46,7 +46,8 @@
     "ph",
     "anderson",
     "roberson",
-    "ewerling"
+    "ewerling",
+    "pedrolo"
   ],
   "historico": [
     {
@@ -72,6 +73,12 @@
       "nome": "Ewerling",
       "semana": "2026-W30",
       "dataHora": "2026-07-24T14:34:43.327Z"
+    },
+    {
+      "id": "pedrolo",
+      "nome": "Pedrolo",
+      "semana": "2026-W30",
+      "dataHora": "2026-07-24T14:34:53.017Z"
     }
   ]
 }
