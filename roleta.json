@@ -1,15 +1,56 @@
 {
   "membros": [
-    { "id": "peterson", "nome": "Peterson", "ativo": true },
-    { "id": "anderson", "nome": "Anderson", "ativo": true },
-    { "id": "pedrolo", "nome": "Pedrolo", "ativo": true },
-    { "id": "italo", "nome": "Italo", "ativo": true },
-    { "id": "ph", "nome": "PH", "ativo": true },
-    { "id": "modesto", "nome": "Modesto", "ativo": true },
-    { "id": "roberson", "nome": "Roberson", "ativo": true },
-    { "id": "ewerling", "nome": "Ewerling", "ativo": true }
+    {
+      "id": "peterson",
+      "nome": "Peterson",
+      "ativo": true
+    },
+    {
+      "id": "anderson",
+      "nome": "Anderson",
+      "ativo": true
+    },
+    {
+      "id": "pedrolo",
+      "nome": "Pedrolo",
+      "ativo": true
+    },
+    {
+      "id": "italo",
+      "nome": "Italo",
+      "ativo": true
+    },
+    {
+      "id": "ph",
+      "nome": "PH",
+      "ativo": true
+    },
+    {
+      "id": "modesto",
+      "nome": "Modesto",
+      "ativo": true
+    },
+    {
+      "id": "roberson",
+      "nome": "Roberson",
+      "ativo": true
+    },
+    {
+      "id": "ewerling",
+      "nome": "Ewerling",
+      "ativo": true
+    }
   ],
   "semanaAtual": "2026-W30",
-  "jaSorteados": [],
-  "historico": []
+  "jaSorteados": [
+    "ph"
+  ],
+  "historico": [
+    {
+      "id": "ph",
+      "nome": "PH",
+      "semana": "2026-W30",
+      "dataHora": "2026-07-24T14:31:02.946Z"
+    }
+  ]
 }
