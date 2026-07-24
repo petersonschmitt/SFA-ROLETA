@@ -50,7 +50,8 @@
   "jaSorteados": [
     "ph",
     "italo",
-    "peterson"
+    "peterson",
+    "anderson"
   ],
   "historico": [
     {
@@ -70,6 +71,12 @@
       "nome": "Peterson",
       "semana": "2026-W30",
       "dataHora": "2026-07-24T14:54:03.353Z"
+    },
+    {
+      "id": "anderson",
+      "nome": "Anderson",
+      "semana": "2026-W30",
+      "dataHora": "2026-07-24T14:55:32.293Z"
     }
   ]
 }
