@@ -38,7 +38,7 @@
     {
       "id": "ewerling",
       "nome": "Ewerling",
-      "ativo": false
+      "ativo": true
     },
     {
       "id": "dasa",
