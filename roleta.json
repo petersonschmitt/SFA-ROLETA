@@ -47,6 +47,15 @@
     }
   ],
   "semanaAtual": "2026-W30",
-  "jaSorteados": [],
-  "historico": []
+  "jaSorteados": [
+    "dasa"
+  ],
+  "historico": [
+    {
+      "id": "dasa",
+      "nome": "Dasa",
+      "semana": "2026-W30",
+      "dataHora": "2026-07-24T17:17:12.947Z"
+    }
+  ]
 }
