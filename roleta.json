@@ -49,7 +49,8 @@
     "ewerling",
     "pedrolo",
     "italo",
-    "modesto"
+    "modesto",
+    "peterson"
   ],
   "historico": [
     {
@@ -93,6 +94,12 @@
       "nome": "Modesto",
       "semana": "2026-W30",
       "dataHora": "2026-07-24T14:35:06.504Z"
+    },
+    {
+      "id": "peterson",
+      "nome": "Peterson",
+      "semana": "2026-W30",
+      "dataHora": "2026-07-24T14:35:13.693Z"
     }
   ]
 }
