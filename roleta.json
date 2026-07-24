@@ -39,6 +39,11 @@
       "id": "ewerling",
       "nome": "Ewerling",
       "ativo": true
+    },
+    {
+      "id": "dasa",
+      "nome": "Dasa",
+      "ativo": true
     }
   ],
   "semanaAtual": "2026-W30",
