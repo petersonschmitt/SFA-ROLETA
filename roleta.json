@@ -3,7 +3,7 @@
     {
       "id": "peterson",
       "nome": "Peterson",
-      "ativo": true
+      "ativo": false
     },
     {
       "id": "anderson",
