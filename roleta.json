@@ -4,10 +4,7 @@
       "id": "peterson",
       "nome": "Peterson",
       "ativo": true,
-      "afastamento": {
-        "tipo": "atestado",
-        "ate": "2026-07-25"
-      }
+      "afastamento": null
     },
     {
       "id": "anderson",
