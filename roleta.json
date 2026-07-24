@@ -57,7 +57,8 @@
   ],
   "semanaAtual": "2026-W30",
   "jaSorteados": [
-    "anderson"
+    "anderson",
+    "peterson"
   ],
   "historico": [
     {
@@ -65,6 +66,12 @@
       "nome": "Anderson",
       "semana": "2026-W30",
       "dataHora": "2026-07-24T17:33:07.710Z"
+    },
+    {
+      "id": "peterson",
+      "nome": "Peterson",
+      "semana": "2026-W30",
+      "dataHora": "2026-07-24T17:36:24.754Z"
     }
   ]
 }
