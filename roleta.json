@@ -42,64 +42,6 @@
     }
   ],
   "semanaAtual": "2026-W30",
-  "jaSorteados": [
-    "ph",
-    "anderson",
-    "roberson",
-    "ewerling",
-    "pedrolo",
-    "italo",
-    "modesto",
-    "peterson"
-  ],
-  "historico": [
-    {
-      "id": "ph",
-      "nome": "PH",
-      "semana": "2026-W30",
-      "dataHora": "2026-07-24T14:31:02.946Z"
-    },
-    {
-      "id": "anderson",
-      "nome": "Anderson",
-      "semana": "2026-W30",
-      "dataHora": "2026-07-24T14:31:13.850Z"
-    },
-    {
-      "id": "roberson",
-      "nome": "Roberson",
-      "semana": "2026-W30",
-      "dataHora": "2026-07-24T14:34:33.392Z"
-    },
-    {
-      "id": "ewerling",
-      "nome": "Ewerling",
-      "semana": "2026-W30",
-      "dataHora": "2026-07-24T14:34:43.327Z"
-    },
-    {
-      "id": "pedrolo",
-      "nome": "Pedrolo",
-      "semana": "2026-W30",
-      "dataHora": "2026-07-24T14:34:53.017Z"
-    },
-    {
-      "id": "italo",
-      "nome": "Italo",
-      "semana": "2026-W30",
-      "dataHora": "2026-07-24T14:35:00.347Z"
-    },
-    {
-      "id": "modesto",
-      "nome": "Modesto",
-      "semana": "2026-W30",
-      "dataHora": "2026-07-24T14:35:06.504Z"
-    },
-    {
-      "id": "peterson",
-      "nome": "Peterson",
-      "semana": "2026-W30",
-      "dataHora": "2026-07-24T14:35:13.693Z"
-    }
-  ]
+  "jaSorteados": [],
+  "historico": []
 }
