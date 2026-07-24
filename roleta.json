@@ -50,7 +50,8 @@
   "jaSorteados": [
     "pedrolo",
     "dasa",
-    "roberson"
+    "roberson",
+    "ewerling"
   ],
   "historico": [
     {
@@ -70,6 +71,12 @@
       "nome": "Roberson",
       "semana": "2026-W30",
       "dataHora": "2026-07-24T16:48:00.533Z"
+    },
+    {
+      "id": "ewerling",
+      "nome": "Ewerling",
+      "semana": "2026-W30",
+      "dataHora": "2026-07-24T16:48:14.325Z"
     }
   ]
 }
