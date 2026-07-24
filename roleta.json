@@ -42,7 +42,11 @@
     {
       "id": "ewerling",
       "nome": "Ewerling",
-      "ativo": true
+      "ativo": true,
+      "afastamento": {
+        "tipo": "ferias",
+        "ate": "2026-08-24"
+      }
     },
     {
       "id": "dasa",
