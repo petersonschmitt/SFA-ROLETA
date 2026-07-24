@@ -48,16 +48,9 @@
   ],
   "semanaAtual": "2026-W30",
   "jaSorteados": [
-    "modesto",
     "roberson"
   ],
   "historico": [
-    {
-      "id": "modesto",
-      "nome": "Modesto",
-      "semana": "2026-W30",
-      "dataHora": "2026-07-24T17:05:39.328Z"
-    },
     {
       "id": "roberson",
       "nome": "Roberson",
