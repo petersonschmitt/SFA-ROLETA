@@ -55,13 +55,8 @@
       "ativo": true
     }
   ],
-  "semanaAtual": "2026-W30",
-  "jaSorteados": [
-    "anderson",
-    "peterson",
-    "dasa",
-    "pedrolo"
-  ],
+  "semanaAtual": "2026-W31",
+  "jaSorteados": [],
   "historico": [
     {
       "id": "anderson",
