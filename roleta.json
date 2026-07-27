@@ -56,7 +56,9 @@
     }
   ],
   "semanaAtual": "2026-W31",
-  "jaSorteados": [],
+  "jaSorteados": [
+    "anderson"
+  ],
   "historico": [
     {
       "id": "anderson",
@@ -81,6 +83,12 @@
       "nome": "Pedrolo",
       "semana": "2026-W30",
       "dataHora": "2026-07-24T17:36:40.497Z"
+    },
+    {
+      "id": "anderson",
+      "nome": "Anderson",
+      "semana": "2026-W31",
+      "dataHora": "2026-07-27T12:03:27.279Z"
     }
   ]
 }
