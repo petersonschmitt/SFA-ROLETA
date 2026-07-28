@@ -54,7 +54,8 @@
   ],
   "semanaAtual": "2026-W31",
   "jaSorteados": [
-    "ewerling"
+    "ewerling",
+    "dasa"
   ],
   "historico": [
     {
@@ -86,6 +87,12 @@
       "nome": "Ewerling",
       "semana": "2026-W31",
       "dataHora": "2026-07-27T12:32:35.609Z"
+    },
+    {
+      "id": "dasa",
+      "nome": "Dasa",
+      "semana": "2026-W31",
+      "dataHora": "2026-07-28T12:20:20.811Z"
     }
   ]
 }
