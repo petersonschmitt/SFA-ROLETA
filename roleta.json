@@ -20,7 +20,10 @@
       "id": "italo",
       "nome": "Italo",
       "ativo": true,
-      "afastamento": null
+      "afastamento": {
+        "tipo": "licenca",
+        "ate": "2026-08-11"
+      }
     },
     {
       "id": "ph",
