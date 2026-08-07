@@ -56,7 +56,8 @@
   "jaSorteados": [
     "modesto",
     "dasa",
-    "anderson"
+    "anderson",
+    "peterson"
   ],
   "historico": [
     {
@@ -124,6 +125,12 @@
       "nome": "Anderson",
       "semana": "2026-W32",
       "dataHora": "2026-08-07T12:36:32.944Z"
+    },
+    {
+      "id": "peterson",
+      "nome": "Peterson",
+      "semana": "2026-W32",
+      "dataHora": "2026-08-07T12:48:04.972Z"
     }
   ]
 }
