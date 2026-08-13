@@ -19,7 +19,7 @@
     {
       "id": "italo",
       "nome": "Italo",
-      "ativo": false,
+      "ativo": true,
       "afastamento": null
     },
     {
