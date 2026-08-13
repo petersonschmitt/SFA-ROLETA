@@ -55,8 +55,7 @@
   "semanaAtual": "2026-W33",
   "jaSorteados": [
     "peterson",
-    "dasa",
-    "anderson"
+    "dasa"
   ],
   "historico": [
     {
@@ -136,12 +135,6 @@
       "nome": "Dasa",
       "semana": "2026-W33",
       "dataHora": "2026-08-11T12:31:47.668Z"
-    },
-    {
-      "id": "anderson",
-      "nome": "Anderson",
-      "semana": "2026-W33",
-      "dataHora": "2026-08-13T12:38:42.223Z"
     }
   ]
 }
