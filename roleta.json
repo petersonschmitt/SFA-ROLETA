@@ -9,7 +9,7 @@
     {
       "id": "anderson",
       "nome": "Anderson",
-      "ativo": false
+      "ativo": true
     },
     {
       "id": "pedrolo",
