@@ -56,7 +56,8 @@
   "jaSorteados": [
     "peterson",
     "dasa",
-    "roberson"
+    "roberson",
+    "ph"
   ],
   "historico": [
     {
@@ -142,6 +143,12 @@
       "nome": "Roberson",
       "semana": "2026-W33",
       "dataHora": "2026-08-13T12:38:55.183Z"
+    },
+    {
+      "id": "ph",
+      "nome": "PH",
+      "semana": "2026-W33",
+      "dataHora": "2026-08-14T12:32:51.416Z"
     }
   ]
 }
