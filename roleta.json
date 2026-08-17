@@ -49,7 +49,11 @@
     {
       "id": "dasa",
       "nome": "Dasa",
-      "ativo": true
+      "ativo": true,
+      "afastamento": {
+        "tipo": "ferias",
+        "ate": "2026-08-31"
+      }
     }
   ],
   "semanaAtual": "2026-W34",
