@@ -55,7 +55,8 @@
   ],
   "semanaAtual": "2026-W34",
   "jaSorteados": [
-    "italo"
+    "italo",
+    "roberson"
   ],
   "historico": [
     {
@@ -153,6 +154,12 @@
       "nome": "Italo",
       "semana": "2026-W34",
       "dataHora": "2026-08-17T12:32:42.297Z"
+    },
+    {
+      "id": "roberson",
+      "nome": "Roberson",
+      "semana": "2026-W34",
+      "dataHora": "2026-08-18T12:35:10.519Z"
     }
   ]
 }
