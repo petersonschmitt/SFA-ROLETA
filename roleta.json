@@ -40,7 +40,7 @@
     {
       "id": "ewerling",
       "nome": "Ewerling",
-      "ativo": true,
+      "ativo": false,
       "afastamento": null
     },
     {
