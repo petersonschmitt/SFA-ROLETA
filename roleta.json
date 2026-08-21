@@ -57,7 +57,8 @@
   "jaSorteados": [
     "italo",
     "roberson",
-    "anderson"
+    "anderson",
+    "ewerling"
   ],
   "historico": [
     {
@@ -167,6 +168,12 @@
       "nome": "Anderson",
       "semana": "2026-W34",
       "dataHora": "2026-08-20T12:36:42.941Z"
+    },
+    {
+      "id": "ewerling",
+      "nome": "Ewerling",
+      "semana": "2026-W34",
+      "dataHora": "2026-08-21T12:50:04.619Z"
     }
   ]
 }
