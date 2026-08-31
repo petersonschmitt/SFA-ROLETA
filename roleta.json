@@ -14,7 +14,7 @@
     {
       "id": "pedrolo",
       "nome": "Pedrolo",
-      "ativo": false
+      "ativo": true
     },
     {
       "id": "italo",
@@ -191,5 +191,6 @@
       "semana": "2026-W35",
       "dataHora": "2026-08-28T12:35:57.607Z"
     }
-  ]
+  ],
+  "ultimaAtivacaoDiaria": "2026-08-31"
 }
