@@ -45,7 +45,8 @@
       "id": "ewerling",
       "nome": "Ewerling",
       "ativo": true,
-      "afastamento": null
+      "afastamento": null,
+      "foto": "https://raw.githubusercontent.com/petersonschmitt/SFA-ROLETA/main/fotos/ewerling.png"
     },
     {
       "id": "dasa",
