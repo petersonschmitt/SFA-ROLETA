@@ -32,7 +32,8 @@
     {
       "id": "modesto",
       "nome": "Modesto",
-      "ativo": true
+      "ativo": true,
+      "foto": "https://raw.githubusercontent.com/petersonschmitt/SFA-ROLETA/main/fotos/modesto.png"
     },
     {
       "id": "roberson",
