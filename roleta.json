@@ -49,7 +49,8 @@
       "id": "dasa",
       "nome": "Dasa",
       "ativo": true,
-      "afastamento": null
+      "afastamento": null,
+      "foto": "https://raw.githubusercontent.com/petersonschmitt/SFA-ROLETA/main/fotos/dasa.png"
     }
   ],
   "semanaAtual": "2026-W36",
