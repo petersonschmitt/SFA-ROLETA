@@ -3,7 +3,7 @@
     {
       "id": "peterson",
       "nome": "Peterson",
-      "ativo": false,
+      "ativo": true,
       "afastamento": null
     },
     {
@@ -14,12 +14,12 @@
     {
       "id": "pedrolo",
       "nome": "Pedrolo",
-      "ativo": false
+      "ativo": true
     },
     {
       "id": "italo",
       "nome": "Italo",
-      "ativo": false,
+      "ativo": true,
       "afastamento": null
     },
     {
@@ -214,5 +214,5 @@
       "dataHora": "2026-09-03T12:32:55.346Z"
     }
   ],
-  "ultimaAtivacaoDiaria": "2026-09-03"
+  "ultimaAtivacaoDiaria": "2026-09-04"
 }
