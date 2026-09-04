@@ -36,7 +36,8 @@
     {
       "id": "roberson",
       "nome": "Roberson",
-      "ativo": true
+      "ativo": true,
+      "foto": "https://raw.githubusercontent.com/petersonschmitt/SFA-ROLETA/main/fotos/roberson.png"
     },
     {
       "id": "ewerling",
