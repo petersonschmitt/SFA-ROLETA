@@ -54,7 +54,8 @@
   "jaSorteados": [
     "modesto",
     "anderson",
-    "ewerling"
+    "ewerling",
+    "dasa"
   ],
   "historico": [
     {
@@ -212,6 +213,12 @@
       "nome": "Ewerling",
       "semana": "2026-W36",
       "dataHora": "2026-09-03T12:32:55.346Z"
+    },
+    {
+      "id": "dasa",
+      "nome": "Dasa",
+      "semana": "2026-W36",
+      "dataHora": "2026-09-04T12:32:02.514Z"
     }
   ],
   "ultimaAtivacaoDiaria": "2026-09-04"
