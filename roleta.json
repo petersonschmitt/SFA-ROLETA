@@ -57,7 +57,8 @@
     "modesto",
     "anderson",
     "ewerling",
-    "dasa"
+    "dasa",
+    "roberson"
   ],
   "historico": [
     {
@@ -221,6 +222,12 @@
       "nome": "Dasa",
       "semana": "2026-W36",
       "dataHora": "2026-09-04T12:32:02.514Z"
+    },
+    {
+      "id": "roberson",
+      "nome": "Roberson",
+      "semana": "2026-W36",
+      "dataHora": "2026-09-04T12:52:20.446Z"
     }
   ],
   "ultimaAtivacaoDiaria": "2026-09-04"
