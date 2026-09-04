@@ -4,7 +4,8 @@
       "id": "peterson",
       "nome": "Peterson",
       "ativo": false,
-      "afastamento": null
+      "afastamento": null,
+      "foto": "https://raw.githubusercontent.com/petersonschmitt/SFA-ROLETA/main/fotos/peterson.png"
     },
     {
       "id": "anderson",
