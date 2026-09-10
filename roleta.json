@@ -58,8 +58,7 @@
   ],
   "semanaAtual": "2026-W37",
   "jaSorteados": [
-    "anderson",
-    "italo"
+    "anderson"
   ],
   "historico": [
     {
@@ -229,12 +228,6 @@
       "nome": "Anderson",
       "semana": "2026-W37",
       "dataHora": "2026-09-08T12:33:36.131Z"
-    },
-    {
-      "id": "italo",
-      "nome": "Italo",
-      "semana": "2026-W37",
-      "dataHora": "2026-09-10T12:17:28.750Z"
     }
   ],
   "ultimaAtivacaoDiaria": "2026-09-10"
