@@ -51,7 +51,7 @@
     {
       "id": "dasa",
       "nome": "Dasa",
-      "ativo": true,
+      "ativo": false,
       "afastamento": null,
       "foto": "https://raw.githubusercontent.com/petersonschmitt/SFA-ROLETA/main/fotos/dasa.png"
     }
