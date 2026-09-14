@@ -57,7 +57,9 @@
     }
   ],
   "semanaAtual": "2026-W38",
-  "jaSorteados": [],
+  "jaSorteados": [
+    "modesto"
+  ],
   "historico": [
     {
       "id": "anderson",
@@ -232,6 +234,12 @@
       "nome": "Ewerling",
       "semana": "2026-W37",
       "dataHora": "2026-09-11T12:38:36.146Z"
+    },
+    {
+      "id": "modesto",
+      "nome": "Modesto",
+      "semana": "2026-W38",
+      "dataHora": "2026-09-14T12:33:12.345Z"
     }
   ],
   "ultimaAtivacaoDiaria": "2026-09-14"
