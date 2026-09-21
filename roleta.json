@@ -32,7 +32,7 @@
     {
       "id": "modesto",
       "nome": "Modesto",
-      "ativo": true,
+      "ativo": false,
       "foto": "https://raw.githubusercontent.com/petersonschmitt/SFA-ROLETA/main/fotos/modesto.png"
     },
     {
