@@ -3,7 +3,7 @@
     {
       "id": "peterson",
       "nome": "Peterson",
-      "ativo": false,
+      "ativo": true,
       "afastamento": null,
       "foto": "https://raw.githubusercontent.com/petersonschmitt/SFA-ROLETA/main/fotos/peterson.png"
     },
@@ -16,23 +16,23 @@
     {
       "id": "pedrolo",
       "nome": "Pedrolo",
-      "ativo": false
+      "ativo": true
     },
     {
       "id": "italo",
       "nome": "Italo",
-      "ativo": false,
+      "ativo": true,
       "afastamento": null
     },
     {
       "id": "ph",
       "nome": "PH",
-      "ativo": false
+      "ativo": true
     },
     {
       "id": "modesto",
       "nome": "Modesto",
-      "ativo": false,
+      "ativo": true,
       "foto": "https://raw.githubusercontent.com/petersonschmitt/SFA-ROLETA/main/fotos/modesto.png"
     },
     {
@@ -260,5 +260,5 @@
       "dataHora": "2026-09-21T12:33:37.161Z"
     }
   ],
-  "ultimaAtivacaoDiaria": "2026-09-21"
+  "ultimaAtivacaoDiaria": "2026-09-22"
 }
