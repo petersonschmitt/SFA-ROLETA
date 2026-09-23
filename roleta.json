@@ -10,7 +10,7 @@
     {
       "id": "anderson",
       "nome": "Anderson",
-      "ativo": false,
+      "ativo": true,
       "foto": "https://raw.githubusercontent.com/petersonschmitt/SFA-ROLETA/main/fotos/anderson.png"
     },
     {
@@ -260,5 +260,5 @@
       "dataHora": "2026-09-21T12:33:37.161Z"
     }
   ],
-  "ultimaAtivacaoDiaria": "2026-09-22"
+  "ultimaAtivacaoDiaria": "2026-09-23"
 }
