@@ -58,7 +58,8 @@
   ],
   "semanaAtual": "2026-W39",
   "jaSorteados": [
-    "ewerling"
+    "ewerling",
+    "dasa"
   ],
   "historico": [
     {
@@ -258,6 +259,12 @@
       "nome": "Ewerling",
       "semana": "2026-W39",
       "dataHora": "2026-09-21T12:33:37.161Z"
+    },
+    {
+      "id": "dasa",
+      "nome": "Dasa",
+      "semana": "2026-W39",
+      "dataHora": "2026-09-24T13:32:35.022Z"
     }
   ],
   "ultimaAtivacaoDiaria": "2026-09-24"
