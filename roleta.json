@@ -57,7 +57,9 @@
     }
   ],
   "semanaAtual": "2026-W40",
-  "jaSorteados": [],
+  "jaSorteados": [
+    "anderson"
+  ],
   "historico": [
     {
       "id": "anderson",
@@ -262,6 +264,12 @@
       "nome": "Dasa",
       "semana": "2026-W39",
       "dataHora": "2026-09-24T13:32:35.022Z"
+    },
+    {
+      "id": "anderson",
+      "nome": "Anderson",
+      "semana": "2026-W40",
+      "dataHora": "2026-09-28T12:33:00.618Z"
     }
   ],
   "ultimaAtivacaoDiaria": "2026-09-28"
