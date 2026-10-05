@@ -57,7 +57,9 @@
     }
   ],
   "semanaAtual": "2026-W41",
-  "jaSorteados": [],
+  "jaSorteados": [
+    "italo"
+  ],
   "historico": [
     {
       "id": "anderson",
@@ -274,6 +276,12 @@
       "nome": "PH",
       "semana": "2026-W40",
       "dataHora": "2026-09-29T17:03:36.676Z"
+    },
+    {
+      "id": "italo",
+      "nome": "Italo",
+      "semana": "2026-W41",
+      "dataHora": "2026-10-05T16:34:12.059Z"
     }
   ],
   "ultimaAtivacaoDiaria": "2026-10-05"
