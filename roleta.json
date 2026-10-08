@@ -44,7 +44,7 @@
     {
       "id": "ewerling",
       "nome": "Ewerling",
-      "ativo": true,
+      "ativo": false,
       "afastamento": null,
       "foto": "https://raw.githubusercontent.com/petersonschmitt/SFA-ROLETA/main/fotos/ewerling.png"
     },
