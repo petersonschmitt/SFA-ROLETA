@@ -60,7 +60,8 @@
   "jaSorteados": [
     "italo",
     "dasa",
-    "roberson"
+    "roberson",
+    "peterson"
   ],
   "historico": [
     {
@@ -296,6 +297,12 @@
       "nome": "Roberson",
       "semana": "2026-W41",
       "dataHora": "2026-10-08T12:34:23.134Z"
+    },
+    {
+      "id": "peterson",
+      "nome": "Peterson",
+      "semana": "2026-W41",
+      "dataHora": "2026-10-09T12:34:16.924Z"
     }
   ],
   "ultimaAtivacaoDiaria": "2026-10-09"
