@@ -58,7 +58,8 @@
   ],
   "semanaAtual": "2026-W42",
   "jaSorteados": [
-    "roberson"
+    "roberson",
+    "dasa"
   ],
   "historico": [
     {
@@ -306,6 +307,12 @@
       "nome": "Roberson",
       "semana": "2026-W42",
       "dataHora": "2026-10-13T12:32:52.608Z"
+    },
+    {
+      "id": "dasa",
+      "nome": "Dasa",
+      "semana": "2026-W42",
+      "dataHora": "2026-10-15T12:34:11.728Z"
     }
   ],
   "ultimaAtivacaoDiaria": "2026-10-15"
