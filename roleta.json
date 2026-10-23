@@ -58,7 +58,8 @@
   ],
   "semanaAtual": "2026-W43",
   "jaSorteados": [
-    "italo"
+    "italo",
+    "modesto"
   ],
   "historico": [
     {
@@ -318,6 +319,12 @@
       "nome": "Italo",
       "semana": "2026-W43",
       "dataHora": "2026-10-22T12:35:50.462Z"
+    },
+    {
+      "id": "modesto",
+      "nome": "Modesto",
+      "semana": "2026-W43",
+      "dataHora": "2026-10-23T12:32:55.978Z"
     }
   ],
   "ultimaAtivacaoDiaria": "2026-10-23"
