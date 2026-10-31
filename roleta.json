@@ -21,7 +21,7 @@
     {
       "id": "italo",
       "nome": "Italo",
-      "ativo": false,
+      "ativo": true,
       "afastamento": null
     },
     {
@@ -346,5 +346,5 @@
       "dataHora": "2026-10-30T12:32:47.379Z"
     }
   ],
-  "ultimaAtivacaoDiaria": "2026-10-30"
+  "ultimaAtivacaoDiaria": "2026-10-31"
 }
