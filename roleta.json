@@ -57,7 +57,9 @@
     }
   ],
   "semanaAtual": "2026-W45",
-  "jaSorteados": [],
+  "jaSorteados": [
+    "anderson"
+  ],
   "historico": [
     {
       "id": "anderson",
@@ -340,6 +342,12 @@
       "nome": "Peterson",
       "semana": "2026-W44",
       "dataHora": "2026-10-30T12:32:47.379Z"
+    },
+    {
+      "id": "anderson",
+      "nome": "Anderson",
+      "semana": "2026-W45",
+      "dataHora": "2026-11-04T12:33:13.699Z"
     }
   ],
   "ultimaAtivacaoDiaria": "2026-11-04"
