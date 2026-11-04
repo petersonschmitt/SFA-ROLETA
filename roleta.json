@@ -39,7 +39,11 @@
       "id": "roberson",
       "nome": "Roberson",
       "ativo": false,
-      "foto": "https://raw.githubusercontent.com/petersonschmitt/SFA-ROLETA/main/fotos/roberson.png"
+      "foto": "https://raw.githubusercontent.com/petersonschmitt/SFA-ROLETA/main/fotos/roberson.png",
+      "afastamento": {
+        "tipo": "ferias",
+        "ate": "2026-12-02"
+      }
     },
     {
       "id": "ewerling",
