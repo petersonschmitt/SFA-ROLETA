@@ -21,7 +21,7 @@
     {
       "id": "italo",
       "nome": "Italo",
-      "ativo": true,
+      "ativo": false,
       "afastamento": null
     },
     {
