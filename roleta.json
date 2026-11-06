@@ -16,12 +16,12 @@
     {
       "id": "pedrolo",
       "nome": "Pedrolo",
-      "ativo": false
+      "ativo": true
     },
     {
       "id": "italo",
       "nome": "Italo",
-      "ativo": false,
+      "ativo": true,
       "afastamento": null
     },
     {
@@ -361,5 +361,5 @@
       "dataHora": "2026-11-05T12:32:57.563Z"
     }
   ],
-  "ultimaAtivacaoDiaria": "2026-11-05"
+  "ultimaAtivacaoDiaria": "2026-11-06"
 }
