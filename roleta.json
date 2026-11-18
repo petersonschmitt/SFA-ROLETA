@@ -3,7 +3,7 @@
     {
       "id": "peterson",
       "nome": "Peterson",
-      "ativo": false,
+      "ativo": true,
       "afastamento": null,
       "foto": "https://raw.githubusercontent.com/petersonschmitt/SFA-ROLETA/main/fotos/peterson.png"
     },
@@ -16,7 +16,7 @@
     {
       "id": "pedrolo",
       "nome": "Pedrolo",
-      "ativo": false
+      "ativo": true
     },
     {
       "id": "italo",
@@ -387,5 +387,5 @@
       "dataHora": "2026-11-17T14:03:00.181Z"
     }
   ],
-  "ultimaAtivacaoDiaria": "2026-11-17"
+  "ultimaAtivacaoDiaria": "2026-11-18"
 }
