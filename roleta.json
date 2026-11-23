@@ -63,11 +63,8 @@
       "foto": "https://raw.githubusercontent.com/petersonschmitt/SFA-ROLETA/main/fotos/dasa.png"
     }
   ],
-  "semanaAtual": "2026-W47",
-  "jaSorteados": [
-    "ph",
-    "peterson"
-  ],
+  "semanaAtual": "2026-W48",
+  "jaSorteados": [],
   "historico": [
     {
       "id": "anderson",
@@ -394,5 +391,5 @@
       "dataHora": "2026-11-18T12:33:13.993Z"
     }
   ],
-  "ultimaAtivacaoDiaria": "2026-11-22"
+  "ultimaAtivacaoDiaria": "2026-11-23"
 }
