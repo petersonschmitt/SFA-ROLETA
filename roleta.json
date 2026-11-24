@@ -10,7 +10,7 @@
     {
       "id": "anderson",
       "nome": "Anderson",
-      "ativo": true,
+      "ativo": false,
       "foto": "https://raw.githubusercontent.com/petersonschmitt/SFA-ROLETA/main/fotos/anderson.png"
     },
     {
