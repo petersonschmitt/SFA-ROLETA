@@ -56,10 +56,7 @@
       "id": "dasa",
       "nome": "Dasa",
       "ativo": true,
-      "afastamento": {
-        "tipo": "ferias",
-        "ate": "2026-11-23"
-      },
+      "afastamento": null,
       "foto": "https://raw.githubusercontent.com/petersonschmitt/SFA-ROLETA/main/fotos/dasa.png"
     }
   ],
@@ -391,5 +388,5 @@
       "dataHora": "2026-11-18T12:33:13.993Z"
     }
   ],
-  "ultimaAtivacaoDiaria": "2026-11-23"
+  "ultimaAtivacaoDiaria": "2026-11-24"
 }
